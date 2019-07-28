@@ -52,3 +52,10 @@
  - Lab-11-4 RNN timeseries
  - Lab-11-5 RNN seq2seq
  - Lab-11-6 PackedSequence
+
+<br>
+
+# 3. Learn More
+ - AWS : https://www.youtube.com/watch?v=9VckXVoJEe0&feature=youtu.be
+ - Google Cloud ML : https://www.youtube.com/watch?v=8Jkz2HexDAM&feature=youtu.be
+ - Google Colaboratory : https://www.youtube.com/watch?v=XRBXMohjQos
